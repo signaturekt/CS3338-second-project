@@ -1,0 +1,45 @@
+commit 067b8f3b815403cdac263dbaf8aad0125ac310e8
+Merge: 66b1a71 3d1c945
+Author: signaturekt <kevin97truong@gmail.com>
+Date:   Fri Sep 5 23:28:26 2025 -0700
+
+    Resolve conflict by combining
+
+commit 3d1c94524321cd046cec601da21ad93f7f54e6d0
+Author: signaturekt <kevin97truong@gmail.com>
+Date:   Fri Sep 5 23:25:13 2025 -0700
+
+    Add favorite movies
+
+commit 66b1a71e11858ec57a0622b993833081daa04444
+Author: signaturekt <kevin97truong@gmail.com>
+Date:   Fri Sep 5 23:22:27 2025 -0700
+
+    Add favorite food
+
+commit e7c6fecd059f321265618c541dc6d76e73c2e35b
+Author: signaturekt <kevin97truong@gmail.com>
+Date:   Fri Sep 5 23:07:51 2025 -0700
+
+    Init README
+
+commit 05ad3f2818b75b63fb29774475644116766706ee
+Merge: 1d2bfc0 8445446
+Author: Kevin Truong <103282293+signaturekt@users.noreply.github.com>
+Date:   Fri Sep 5 23:01:50 2025 -0700
+
+    Merge pull request #1 from signaturekt/into-fill
+    
+    Add name and hobby information
+
+commit 8445446ca51b30b18fb6e2e9561609268adcbfe3
+Author: signaturekt <kevin97truong@gmail.com>
+Date:   Fri Sep 5 22:57:39 2025 -0700
+
+    Add name and hobby information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
